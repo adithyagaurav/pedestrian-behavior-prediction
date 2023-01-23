@@ -135,6 +135,7 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -177,7 +178,7 @@ pedestrian crosswalk behavior. In ICCVW, pages 206–213,
 [issues-shield]: https://img.shields.io/github/issues/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
 [issues-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/issues
 [license-shield]: https://img.shields.io/github/license/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
-[license-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/blob/master/LICENSE.txt
+[license-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/output.gif
