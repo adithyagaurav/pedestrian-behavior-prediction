@@ -28,7 +28,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/adithyagaurav/pedestrian-behavior-prediction">
-    <img src="images/PA_logo.png" alt="Logo" width="120" height="80">
+    <img src="images/PA_logo.png" alt="Logo" width="140" height="80">
   </a>
 
 <h3 align="center">Are They Going To Cross? Pedestrian Behavior Prediction</h3>
@@ -70,12 +70,7 @@
 
 [![Pedestrian Crossing Demo][product-screenshot]]()
 
-The aim of this project is to design a computer vision software pipeline using data
-science and machine learning principles to estimate the intent of pedestrians, specifically
-whether they are going to cross in front of the autonomous driving vehicle. We accomplish this
-by analyzing the behavior cues humans display before crossing the road.
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `adithyagaurav`, `pedestrian-behavior-prediction`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+The aim of this project is to design a computer vision software pipeline using data science and machine learning principles to estimate the intent of pedestrians, specifically whether they are going to cross in front of the autonomous driving vehicle. We accomplish this by analyzing the behavior cues humans display before crossing the road.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
