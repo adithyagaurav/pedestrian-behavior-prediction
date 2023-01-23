@@ -28,7 +28,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/adithyagaurav/pedestrian-behavior-prediction">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/PA_logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Are They Going To Cross? Pedestrian Behavior Prediction</h3>
