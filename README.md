@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/adithyagsingh/pedestrian-behavior-prediction">
+  <a href="https://github.com/adithyagaurav/pedestrian-behavior-prediction">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -75,7 +75,7 @@ science and machine learning principles to estimate the intent of pedestrians, s
 whether they are going to cross in front of the autonomous driving vehicle. We accomplish this
 by analyzing the behavior cues humans display before crossing the road.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `adithyagsingh`, `pedestrian-behavior-prediction`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `adithyagaurav`, `pedestrian-behavior-prediction`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +128,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/adithyagsingh/pedestrian-behavior-prediction.git
+   git clone https://github.com/adithyagaurav/pedestrian-behavior-prediction.git
    ```
 3. Download the JAAD dataset videos
 4. Step through the Jupyter notebook Pedestrian_estimation_code.ipynb
@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Adithya Singh - agsingh@umd.edu
 
-Project Link: [https://github.com/adithyagsingh/pedestrian-behavior-prediction](https://github.com/adithyagsingh/pedestrian-behavior-prediction)
+Project Link: [https://github.com/adithyagaurav/pedestrian-behavior-prediction](https://github.com/adithyagaurav/pedestrian-behavior-prediction)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,16 +168,16 @@ pedestrian crosswalk behavior. In ICCVW, pages 206–213,
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/adithyagsingh/pedestrian-behavior-prediction.svg?style=for-the-badge
-[contributors-url]: https://github.com/adithyagsingh/pedestrian-behavior-prediction/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adithyagsingh/pedestrian-behavior-prediction.svg?style=for-the-badge
-[forks-url]: https://github.com/adithyagsingh/pedestrian-behavior-prediction/network/members
-[stars-shield]: https://img.shields.io/github/stars/adithyagsingh/pedestrian-behavior-prediction.svg?style=for-the-badge
-[stars-url]: https://github.com/adithyagsingh/pedestrian-behavior-prediction/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adithyagsingh/pedestrian-behavior-prediction.svg?style=for-the-badge
-[issues-url]: https://github.com/adithyagsingh/pedestrian-behavior-prediction/issues
-[license-shield]: https://img.shields.io/github/license/adithyagsingh/pedestrian-behavior-prediction.svg?style=for-the-badge
-[license-url]: https://github.com/adithyagsingh/pedestrian-behavior-prediction/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
+[contributors-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
+[forks-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/network/members
+[stars-shield]: https://img.shields.io/github/stars/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
+[stars-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/stargazers
+[issues-shield]: https://img.shields.io/github/issues/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
+[issues-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/issues
+[license-shield]: https://img.shields.io/github/license/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
+[license-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/output.gif
