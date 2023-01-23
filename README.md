@@ -172,7 +172,7 @@ pedestrian crosswalk behavior. In ICCVW, pages 206–213,
 [stars-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/stargazers
 [issues-shield]: https://img.shields.io/github/issues/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
 [issues-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/issues
-[license-shield]: https://img.shields.io/github/license/adithyagaurav/pedestrian-behavior-prediction.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/adithyagaurav/pedestrian-behavior-prediction/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/adithyagsingh/
